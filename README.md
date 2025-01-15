@@ -70,9 +70,3 @@ This project is licensed under the MIT License.
 ## **Contact**
 For questions or contributions, feel free to contact me at **pabbathireddyakhilreddy@gmail.com**.
 ```
-Update for commit on 2023-01-11
-Update for commit 1
-Update for commit 2
-Update for commit 3
-Update for commit 4
-Update for commit 5
